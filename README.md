@@ -1,7 +1,4 @@
-olá
-sejam
-bem
-vindos
+olá sejam bem-vindos
 
 🤭
 
